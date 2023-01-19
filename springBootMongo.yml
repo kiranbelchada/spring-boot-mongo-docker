@@ -1,4 +1,4 @@
-*/
+/*
 kind: ConfigMap
 apiVersion: v1
 metadata:
@@ -43,7 +43,7 @@ spec:
       storage: 100Mi
 
 ---
-/*
+*/
 ## Spring Boot App
 apiVersion: apps/v1
 kind: Deployment
